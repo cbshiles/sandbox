@@ -1,0 +1,12 @@
+To run:
+   g++ -std=c++0x test.cpp
+
+Contents of zip:
+	results.txt : Redirected output, since its pretty long.
+	test.cpp : Main loop
+	Primer .h, .cpp : Prime generator
+	Hasher .h, .cpp : Hasher template(s) 
+	Functors .h : Individual functors
+	reflect.txt : This text
+
+Analysis of results

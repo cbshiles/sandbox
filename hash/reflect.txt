@@ -1,0 +1,16 @@
+To run:
+   g++ -std=c++0x test.cpp
+
+Contents of zip:
+	results.txt : Redirected output, since its pretty long.
+	test.cpp : Main loop
+	Primer .h, .cpp : Prime generator
+	Hasher .h, .cpp : Hasher template(s) 
+	Functors .h : Individual functors
+	reflect.txt : This text
+
+Analysis of results:
+	 For the hash tables with around 1000, all the algorithms distributed some strings to each bin. Ascii is already having problems, however, since it only puts 15 or 18 in some bins. This is in comparison to the minimum length being around 180 for the other three algorithms. This shows a lack of even distribution for the ascii algorithm.
+
+	 For larger table sizes, the ascii algorithm plateaus at only using 2005 bins, while the others remain relatively close to each other in their distributions. I can't figure out why some do better than others in certain situations. I found it interesting how much priming the table size helped myHash on the last entry size (234936). Although it only increased the total number of buckets by 11 (to 234947), it increased number of buckets used by a whopping 14699 bins! Very cool.
+

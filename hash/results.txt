@@ -1,0 +1,248 @@
+
+BUCKET SIZE: 1000
+
+Horners Hash:
+Out of 1000 bins, 1000 were used and 0 were not.
+Used bin stats:
+Minimum length: 184
+Maximum length: 284
+Average length: 234.936
+
+Ascii Hash:
+Out of 1000 bins, 1000 were used and 0 were not.
+Used bin stats:
+Minimum length: 15
+Maximum length: 689
+Average length: 234.936
+
+My Hash:
+Out of 1000 bins, 1000 were used and 0 were not.
+Used bin stats:
+Minimum length: 188
+Maximum length: 286
+Average length: 234.936
+
+Standard Hash:
+Out of 1000 bins, 1000 were used and 0 were not.
+Used bin stats:
+Minimum length: 183
+Maximum length: 285
+Average length: 234.936
+
+
+BUCKET SIZE: 1009
+
+Horners Hash:
+Out of 1009 bins, 1009 were used and 0 were not.
+Used bin stats:
+Minimum length: 182
+Maximum length: 285
+Average length: 232.84
+
+Ascii Hash:
+Out of 1009 bins, 1009 were used and 0 were not.
+Used bin stats:
+Minimum length: 18
+Maximum length: 687
+Average length: 232.84
+
+My Hash:
+Out of 1009 bins, 1009 were used and 0 were not.
+Used bin stats:
+Minimum length: 189
+Maximum length: 281
+Average length: 232.84
+
+Standard Hash:
+Out of 1009 bins, 1009 were used and 0 were not.
+Used bin stats:
+Minimum length: 179
+Maximum length: 277
+Average length: 232.84
+
+
+BUCKET SIZE: 10000
+
+Horners Hash:
+Out of 10000 bins, 10000 were used and 0 were not.
+Used bin stats:
+Minimum length: 8
+Maximum length: 44
+Average length: 23.4936
+
+Ascii Hash:
+Out of 10000 bins, 2005 were used and 7995 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 679
+Average length: 117.175
+
+My Hash:
+Out of 10000 bins, 10000 were used and 0 were not.
+Used bin stats:
+Minimum length: 7
+Maximum length: 44
+Average length: 23.4936
+
+Standard Hash:
+Out of 10000 bins, 10000 were used and 0 were not.
+Used bin stats:
+Minimum length: 7
+Maximum length: 45
+Average length: 23.4936
+
+
+BUCKET SIZE: 10007
+
+Horners Hash:
+Out of 10007 bins, 10007 were used and 0 were not.
+Used bin stats:
+Minimum length: 7
+Maximum length: 46
+Average length: 23.4772
+
+Ascii Hash:
+Out of 10007 bins, 2005 were used and 8002 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 679
+Average length: 117.175
+
+My Hash:
+Out of 10007 bins, 10007 were used and 0 were not.
+Used bin stats:
+Minimum length: 8
+Maximum length: 43
+Average length: 23.4772
+
+Standard Hash:
+Out of 10007 bins, 10007 were used and 0 were not.
+Used bin stats:
+Minimum length: 6
+Maximum length: 42
+Average length: 23.4772
+
+
+BUCKET SIZE: 100000
+
+Horners Hash:
+Out of 100000 bins, 90357 were used and 9643 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 12
+Average length: 2.60009
+
+Ascii Hash:
+Out of 100000 bins, 2005 were used and 97995 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 679
+Average length: 117.175
+
+My Hash:
+Out of 100000 bins, 90362 were used and 9638 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 12
+Average length: 2.59994
+
+Standard Hash:
+Out of 100000 bins, 90265 were used and 9735 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 11
+Average length: 2.60274
+
+
+BUCKET SIZE: 100003
+
+Horners Hash:
+Out of 100003 bins, 90354 were used and 9649 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 12
+Average length: 2.60017
+
+Ascii Hash:
+Out of 100003 bins, 2005 were used and 97998 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 679
+Average length: 117.175
+
+My Hash:
+Out of 100003 bins, 90387 were used and 9616 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 11
+Average length: 2.59922
+
+Standard Hash:
+Out of 100003 bins, 90581 were used and 9422 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 12
+Average length: 2.59366
+
+
+BUCKET SIZE: 234936
+
+Horners Hash:
+Out of 234936 bins, 148041 were used and 86895 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 8
+Average length: 1.58697
+
+Ascii Hash:
+Out of 234936 bins, 2005 were used and 232931 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 679
+Average length: 117.175
+
+My Hash:
+Out of 234936 bins, 133338 were used and 101598 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 10
+Average length: 1.76196
+
+Standard Hash:
+Out of 234936 bins, 148235 were used and 86701 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 9
+Average length: 1.58489
+
+
+BUCKET SIZE: 234947
+
+Horners Hash:
+Out of 234947 bins, 147928 were used and 87019 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 8
+Average length: 1.58818
+
+Ascii Hash:
+Out of 234947 bins, 2005 were used and 232942 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 679
+Average length: 117.175
+
+My Hash:
+Out of 234947 bins, 148037 were used and 86910 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 9
+Average length: 1.58701
+
+Standard Hash:
+Out of 234947 bins, 148047 were used and 86900 were not.
+Used bin stats:
+Minimum length: 1
+Maximum length: 8
+Average length: 1.5869
+

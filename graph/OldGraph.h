@@ -1,0 +1,25 @@
+template <typename T>
+class Vertex
+{
+ public:
+  Vertex(T x);
+  void addEdge(Vertex *);
+  T id;
+  bool visited;
+  bool findCycle();
+ private:
+  struct Edge;
+  std::vector<Edge> moves;
+};
+
+template <typename T>
+class Graph
+{
+ public:
+  std:: vector<Vertex<T> > verticies;
+  Vertex<T>* find (T val);
+  void reset();
+  bool hasCycle ();
+ private:
+
+};
